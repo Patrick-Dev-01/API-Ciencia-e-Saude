@@ -1,0 +1,64 @@
+{
+	"id": "1",
+	"nome": "Pão de Queijo",
+	"image": "pao-de-queijo.jpg",
+	"ingredientes": [
+		"2 colheres de sopa de creme de ricota", 
+		"1 xícara de polvilho azedo",
+		"½ xícara de ricota",
+		"90 g de iogurte do tipo grego",
+		"1 colher de sopa de chia"
+	],
+	"preparo": [
+		"Misture todos os ingredientes em um recipiente até formar uma massa bem macia e que não grude na mão (se necessário acrescente polvilho para deixá-la menos grudenta).", 
+        "Forme as bolinhas e leve ao forno pré-aquecido a 180 ºC.",
+		"Observe o crescimento da massa e retire quando ele ficar bem moreninho."
+	]
+}
+
+{
+    "id": "2",
+    "nome": "Torta Light de Atum",
+    "image": "torta_light_atum.jpg",
+    "ingredientes": [
+        "5 fatias de pão integral",
+        "leite líquido suficiente para umedecer o pão (mais ou menos 8 colheres de sopa)",
+        "400 g de ricota fresca (aproximadamente)",
+        "2 latas de atum natural",
+        "3 ovos",
+        "3 colheres de sopa (cheias) de requeijão cremoso light",
+        "100 g de queijo parmesão ralado na hora (opcional)",
+        "Sal",
+        "Orégano e cheiro verde"
+    ],
+    "preparo": [
+        "Passe o pão no processador e rapidamente o arrume em uma assadeira untada ou com papel manteiga.",
+        "Vá colocando o leite por cima só pra umedecer o pão.",
+        "No processador, coloque a ricota e o requeijão e bata tudo até formar um creme.",
+        "Acerte o sal, acrescente os ovos e bata o preparo. Coloque o atum, o orégano e o cheiro verde.",
+        "Coloque o recheio por cima do fundo de pão que esta na forma e leve a assadeira para assar.",
+    ]
+}
+
+{
+    "id": "3",
+    "nome": "Salada Detrox",
+    "image": "salada_detrox.jpg",
+    "ingredientes": [
+        "Alface",
+        "Rúcula",
+        "1 tomate picado",
+        "1 cenoura pequena ralada",
+        "1 filé de frango desfiado",
+        "Gengibre ralado",
+        "Orégano",
+        "Vinagre de maçã",
+        "Limão",
+        "Azeite",
+        "Sal"
+    ],
+    "preparo": [
+        "Em uma vasilha, coloque as folhas de alface, rúcula, o tomate picado, a cenoura ralada, o frango desfiado e misture.",
+        "Tempere a salada com o gengibre (pouco pois ele é forte), orégano, vinagre de maça, azeite, limão e sal. Sirva!"
+    ]
+}
